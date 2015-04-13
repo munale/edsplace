@@ -1,3 +1,3 @@
 select *
 from pasta
-where pasta.type = "macaroni"
+where pasta.type = "macar"
